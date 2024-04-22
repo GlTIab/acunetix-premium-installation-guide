@@ -13,7 +13,7 @@ Acunetix is an end-to-end web security scanner, providing a comprehensive view o
 
 - **Platforms:** Available both as an online service and for on-premises deployment.
 
-- **Effectiveness: **Offers manual pen testing tools, enhancing testing capabilities.
+- **Effectiveness:** Offers manual pen testing tools, enhancing testing capabilities.
 
 - **Integration:** Compatible with various platforms and environments, including AWS Marketplace.
 
